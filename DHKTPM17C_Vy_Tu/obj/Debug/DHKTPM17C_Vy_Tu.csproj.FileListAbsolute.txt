@@ -1,0 +1,17 @@
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\bin\Debug\DHKTPM17C_Vy_Tu.dll
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\bin\Debug\DHKTPM17C_Vy_Tu.pdb
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\bin\Debug\MethodLibrary.dll
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\obj\Debug\DHKTPM17C_Vy_Tu.csproj.AssemblyReference.cache
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\obj\Debug\DHKTPM17C_Vy_Tu.csproj.CoreCompileInputs.cache
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\obj\Debug\DHKTPM17.41E50790.Up2Date
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\obj\Debug\DHKTPM17C_Vy_Tu.dll
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\obj\Debug\DHKTPM17C_Vy_Tu.pdb
+D:\HK1_2024_2025\DBCLvKTPM\BaiTap\DHKTPM17C_Vy_Tu\bin\Debug\UT_Lab_1.csv
