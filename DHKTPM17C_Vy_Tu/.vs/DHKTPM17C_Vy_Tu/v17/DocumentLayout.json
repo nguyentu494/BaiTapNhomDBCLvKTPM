@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HK1_2024_2025\\DBCLvKTPM\\BaiTap\\DHKTPM17C_Vy_Tu\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Test\\BaiTapNhomDBCLvKTPM\\DHKTPM17C_Vy_Tu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B15E6FFC-D712-4312-91FD-E2BD6FD1C7BF}|DHKTPM17C_Vy_Tu.csproj|d:\\hk1_2024_2025\\dbclvktpm\\baitap\\dhktpm17c_vy_tu\\ut_lab_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B15E6FFC-D712-4312-91FD-E2BD6FD1C7BF}|DHKTPM17C_Vy_Tu.csproj|solutionrelative:ut_lab_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B15E6FFC-D712-4312-91FD-E2BD6FD1C7BF}|DHKTPM17C_Vy_Tu.csproj|c:\\users\\lenovo\\desktop\\test\\baitapnhomdbclvktpm\\dhktpm17c_vy_tu\\ut_lab_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15E6FFC-D712-4312-91FD-E2BD6FD1C7BF}|DHKTPM17C_Vy_Tu.csproj|solutionrelative:ut_lab_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B15E6FFC-D712-4312-91FD-E2BD6FD1C7BF}|DHKTPM17C_Vy_Tu.csproj|d:\\hk1_2024_2025\\dbclvktpm\\baitap\\dhktpm17c_vy_tu\\ut_lab_1.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B15E6FFC-D712-4312-91FD-E2BD6FD1C7BF}|DHKTPM17C_Vy_Tu.csproj|solutionrelative:ut_lab_1.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B15E6FFC-D712-4312-91FD-E2BD6FD1C7BF}|DHKTPM17C_Vy_Tu.csproj|C:\\Users\\LENOVO\\Desktop\\Test\\BaiTapNhomDBCLvKTPM\\DHKTPM17C_Vy_Tu\\ut_lab_6.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B15E6FFC-D712-4312-91FD-E2BD6FD1C7BF}|DHKTPM17C_Vy_Tu.csproj|solutionrelative:ut_lab_6.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15E6FFC-D712-4312-91FD-E2BD6FD1C7BF}|DHKTPM17C_Vy_Tu.csproj|C:\\Users\\LENOVO\\Desktop\\Test\\BaiTapNhomDBCLvKTPM\\DHKTPM17C_Vy_Tu\\ut_lab_4.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B15E6FFC-D712-4312-91FD-E2BD6FD1C7BF}|DHKTPM17C_Vy_Tu.csproj|solutionrelative:ut_lab_4.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15E6FFC-D712-4312-91FD-E2BD6FD1C7BF}|DHKTPM17C_Vy_Tu.csproj|C:\\Users\\LENOVO\\Desktop\\Test\\BaiTapNhomDBCLvKTPM\\DHKTPM17C_Vy_Tu\\ut_lab_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15E6FFC-D712-4312-91FD-E2BD6FD1C7BF}|DHKTPM17C_Vy_Tu.csproj|solutionrelative:ut_lab_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,35 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UT_Lab_1.cs",
-              "DocumentMoniker": "D:\\HK1_2024_2025\\DBCLvKTPM\\BaiTap\\DHKTPM17C_Vy_Tu\\UT_Lab_1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Test\\BaiTapNhomDBCLvKTPM\\DHKTPM17C_Vy_Tu\\UT_Lab_1.cs",
               "RelativeDocumentMoniker": "UT_Lab_1.cs",
-              "ToolTip": "D:\\HK1_2024_2025\\DBCLvKTPM\\BaiTap\\DHKTPM17C_Vy_Tu\\UT_Lab_1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Test\\BaiTapNhomDBCLvKTPM\\DHKTPM17C_Vy_Tu\\UT_Lab_1.cs",
               "RelativeToolTip": "UT_Lab_1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T15:39:22.538Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UT_Lab_6.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Test\\BaiTapNhomDBCLvKTPM\\DHKTPM17C_Vy_Tu\\UT_Lab_6.cs",
+              "RelativeDocumentMoniker": "UT_Lab_6.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Test\\BaiTapNhomDBCLvKTPM\\DHKTPM17C_Vy_Tu\\UT_Lab_6.cs",
+              "RelativeToolTip": "UT_Lab_6.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:22:24.661Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UT_Lab_1.csv",
-              "DocumentMoniker": "D:\\HK1_2024_2025\\DBCLvKTPM\\BaiTap\\DHKTPM17C_Vy_Tu\\UT_Lab_1.csv",
-              "RelativeDocumentMoniker": "UT_Lab_1.csv",
-              "ToolTip": "D:\\HK1_2024_2025\\DBCLvKTPM\\BaiTap\\DHKTPM17C_Vy_Tu\\UT_Lab_1.csv",
-              "RelativeToolTip": "UT_Lab_1.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Title": "UT_Lab_6.csv",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Test\\BaiTapNhomDBCLvKTPM\\DHKTPM17C_Vy_Tu\\UT_Lab_6.csv",
+              "RelativeDocumentMoniker": "UT_Lab_6.csv",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Test\\BaiTapNhomDBCLvKTPM\\DHKTPM17C_Vy_Tu\\UT_Lab_6.csv",
+              "RelativeToolTip": "UT_Lab_6.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-09-28T19:57:43.363Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T15:26:40.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UT_Lab_4.csv",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Test\\BaiTapNhomDBCLvKTPM\\DHKTPM17C_Vy_Tu\\UT_Lab_4.csv",
+              "RelativeDocumentMoniker": "UT_Lab_4.csv",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Test\\BaiTapNhomDBCLvKTPM\\DHKTPM17C_Vy_Tu\\UT_Lab_4.csv",
+              "RelativeToolTip": "UT_Lab_4.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-09-30T15:05:41.35Z"
             },
             {
               "$type": "Bookmark",
